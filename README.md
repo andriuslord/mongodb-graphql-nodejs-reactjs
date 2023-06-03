@@ -6,7 +6,7 @@ Install all dependencies
 ```sh
 npm install
 ```
-
+el claudio es entero pollo
 Run the server
 ```sh
 npm start
